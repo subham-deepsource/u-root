@@ -6,3 +6,4 @@ enabled = true
 
   [analyzers.meta]
   import_root = "github.com/subham-deepsource/u-root"
+  dependencies_vendored = true
